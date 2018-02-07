@@ -4,6 +4,7 @@
     <string name="dollarValue">Valor em Dólar:</string>
     <string name="euroValue">Valor em Euro:</string>
     <string name="btnCalc">Calcular</string>
-    <string name="valueHint">valor...</string>
+    <string name="dollarValueHint">$</string>
+    <string name="euroValueHint">"\u20AC"</string>
     <string name="valueHintConverted">valor convertido...</string>
 </resources>
